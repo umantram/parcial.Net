@@ -2,3 +2,4 @@ c:\users\umantram\documents\visual studio 2010\Projects\Parcial\Parcial\bin\Debu
 c:\users\umantram\documents\visual studio 2010\Projects\Parcial\Parcial\bin\Debug\Parcial.pdb
 c:\users\umantram\documents\visual studio 2010\Projects\Parcial\Parcial\obj\x86\Debug\Parcial.exe
 c:\users\umantram\documents\visual studio 2010\Projects\Parcial\Parcial\obj\x86\Debug\Parcial.pdb
+C:\Users\umantram\documents\visual studio 2010\Projects\Parcial\Parcial\obj\x86\Debug\Parcial.csprojResolveAssemblyReference.cache

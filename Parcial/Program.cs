@@ -63,8 +63,39 @@ namespace Parcial
 
             }
 
-            Console.ReadKey();
+            int[,] matriz = new int[3,3];
 
+            Random rnd = new Random();
+
+            for (int i = 0; i < 3; i++)
+            {
+
+                for (int j = 0; j < 3; j++)
+                {
+
+                    matriz[i, j] = rnd.Next(1,10);
+
+                }
+            }
+
+            
+            for (int i = 0; i < 3; i++)
+            {
+
+                for (int j = 0; j < 3; j++)
+                {
+
+                    Console.WriteLine("arreglo: {0}", matriz[i,j]);
+
+                }
+
+                Console.WriteLine("---");
+
+            }
+
+
+            
+            Console.ReadKey();
 
 
         }
